@@ -10,3 +10,4 @@ CompSciClub
 FOR JOHN, ADAM, AND SAM:
   For each club day, make a folder with the date as the title.
   Include comments in the code wherever you feel is nessecary.
+  No forking please :)
