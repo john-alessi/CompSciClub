@@ -12,7 +12,7 @@ class DataTypes {
 	float ballmerPeak = 0.1335f;//32 bits
 	double pi = 3.141592653589793238462643383279502884197169;//64 bits 
 	
-	BigDecimal treeFiddy = new BigDecimal("3.50");//Non-primitive; unlimited value; more appropriate for exact values
+	BigDecimal treeFiddy = new BigDecimal("3.50000000000000000000000000000000000000000000000000000000000000000000000000000000000000");//Non-primitive; unlimited value; more appropriate for exact values
 	
 	boolean hasTheLargeHadronColliderDestroyedTheWorldYet = false;//1 bit of data but size "not precisely defined"; possible values true and false
 	
