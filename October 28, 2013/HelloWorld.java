@@ -19,3 +19,4 @@ System.out.println - A method called println in the out class of the Systen name
 () - Parameters go here. For println, nearly any parameter is accepted, such as a number, character, string, or even a boolean value (true/false value)
 ; - Tells the compiler that the statement is over, and to proceed to the next statement. These little buggers are the bane of new programmers everywhere.
 abstraction - The idea that a person does not need to know how something works to use it. For example, you have no idea how println knows how to print its argument to the console. You just accept that it works trust that it will work. This goes for all built-in methods.
+*/
