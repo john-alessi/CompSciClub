@@ -1,7 +1,12 @@
-//An example of a java object representing a physical object
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
-public class Box
+namespace CSharpExamples
 {
+    class Box
+    {
         int l;
         int w;
         int h; //length, width, and height
@@ -39,4 +44,5 @@ public class Box
         {
             return "I'm a box!";
         }
+    }
 }
