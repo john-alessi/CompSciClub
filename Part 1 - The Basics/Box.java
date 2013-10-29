@@ -8,9 +8,9 @@ public class Box
 	
 	public Box() //Called whenever a Box is created without any parameters
 	{
-			length = 1;
-			width = 1;
-			height = 1; //The default dimensions of our Box.
+		length = 1;
+		width = 1;
+		height = 1; //The default dimensions of our Box.
 	}
 	
 	public Box(int l, int w, int h) //Called if a Box is created with three integer parameters
