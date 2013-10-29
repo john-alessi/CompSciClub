@@ -8,7 +8,6 @@ CompSciClub
   -Follow us on Twitter @GVCode!
   
 FOR JOHN, ADAM, AND SAM:
-  For each club day, make a folder with the date as the title.
+  Create folders with overarching themes and put basic examples in it.
   Include comments in the code wherever you feel is nessecary.
   No forking please :)
-  FORK FORK FORK!
